@@ -21,7 +21,7 @@
                     <form action="MiSesionCTO?accion=validar" method="POST">
                         <div class="form-group text-center">
                             <p>
-                                Bienvenido al sistema de acceso
+                                Bienvenido al sistema
                             </p>                           
                         </div>
                         <div class="form-group text-center">
